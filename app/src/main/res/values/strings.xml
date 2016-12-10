@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapPrototype</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_LocationPermision_Message">You location is used to find near by Mosques.</string>
+    <string name="dialog_LocationPermision_Title">Allow MFinder to Access this device\'s location\!</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+    <string name="ok">OK</string>
+</resources>
